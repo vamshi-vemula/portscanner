@@ -7,5 +7,5 @@ Made with Python ...
 > /ss20.0.1
 
 ### Screenshots
-![[/ss1.png]]
-![[/ss2.png]]
+![[screenshots/ss1.png]]
+![[screenshots/ss2.png]]
