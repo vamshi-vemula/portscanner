@@ -7,4 +7,4 @@ Made with Python ...
 > /ss20.0.1
 
 ### Screenshots
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/vamshi-vemula/portscanner/main/screenshots/ss1.png)
