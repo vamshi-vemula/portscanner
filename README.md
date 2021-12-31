@@ -4,6 +4,8 @@ Simple PortScanner
 Made with Python ...
 
 #### Usage
-> python3 portscanner.py 127.0.0.1
+> /ss20.0.1
 
 ### Screenshots
+![[/ss1.png]]
+![[/ss2.png]]
